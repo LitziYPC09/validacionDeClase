@@ -1,0 +1,42 @@
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\bin\Debug\net8.0\p1bpoo.exe
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\bin\Debug\net8.0\p1bpoo.deps.json
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\bin\Debug\net8.0\p1bpoo.runtimeconfig.json
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\bin\Debug\net8.0\p1bpoo.dll
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\bin\Debug\net8.0\p1bpoo.pdb
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\obj\Debug\net8.0\p1bpoo.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\obj\Debug\net8.0\p1bpoo.AssemblyInfoInputs.cache
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\obj\Debug\net8.0\p1bpoo.AssemblyInfo.cs
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\obj\Debug\net8.0\p1bpoo.csproj.CoreCompileInputs.cache
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\obj\Debug\net8.0\p1bpoo.dll
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\obj\Debug\net8.0\refint\p1bpoo.dll
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\obj\Debug\net8.0\p1bpoo.pdb
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\obj\Debug\net8.0\p1bpoo.genruntimeconfig.cache
+d:\Escritorio\PROGRA 1 (TAREAS)\p1poo\p1bpoo\p1bpoo\obj\Debug\net8.0\ref\p1bpoo.dll
+C:\Users\IBI\Desktop\Litzi\p1bpoo\bin\Debug\net8.0\p1bpoo.exe
+C:\Users\IBI\Desktop\Litzi\p1bpoo\bin\Debug\net8.0\p1bpoo.deps.json
+C:\Users\IBI\Desktop\Litzi\p1bpoo\bin\Debug\net8.0\p1bpoo.runtimeconfig.json
+C:\Users\IBI\Desktop\Litzi\p1bpoo\bin\Debug\net8.0\p1bpoo.dll
+C:\Users\IBI\Desktop\Litzi\p1bpoo\bin\Debug\net8.0\p1bpoo.pdb
+C:\Users\IBI\Desktop\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Desktop\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.AssemblyInfoInputs.cache
+C:\Users\IBI\Desktop\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.AssemblyInfo.cs
+C:\Users\IBI\Desktop\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Desktop\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.dll
+C:\Users\IBI\Desktop\Litzi\p1bpoo\obj\Debug\net8.0\refint\p1bpoo.dll
+C:\Users\IBI\Desktop\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.pdb
+C:\Users\IBI\Desktop\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.genruntimeconfig.cache
+C:\Users\IBI\Desktop\Litzi\p1bpoo\obj\Debug\net8.0\ref\p1bpoo.dll
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\bin\Debug\net8.0\p1bpoo.exe
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\bin\Debug\net8.0\p1bpoo.deps.json
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\bin\Debug\net8.0\p1bpoo.runtimeconfig.json
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\bin\Debug\net8.0\p1bpoo.dll
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\bin\Debug\net8.0\p1bpoo.pdb
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.AssemblyInfoInputs.cache
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.AssemblyInfo.cs
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.csproj.CoreCompileInputs.cache
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.dll
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\obj\Debug\net8.0\refint\p1bpoo.dll
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.pdb
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\obj\Debug\net8.0\p1bpoo.genruntimeconfig.cache
+d:\Escritorio\LITZI poo\Litzi\p1bpoo\obj\Debug\net8.0\ref\p1bpoo.dll
